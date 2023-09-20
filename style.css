@@ -642,4 +642,34 @@ html{
     .contact .row form .inputBox input{
         width: 100%;
     }
+    .gallery .box-container {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2.5rem;
+    }
+
+    .contact .row {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2.5rem;
+
+    }
+
+    .services .box-container {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2.5rem;
+    }
+
+    .package .box-container {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2.5rem;
+    }
+
+    .book .row {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 2.5rem;
+    }
     }
